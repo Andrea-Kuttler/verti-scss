@@ -1,2 +1,2 @@
 # verti-scss
-how i learned scss
+page in progress - mobile first web page in future
